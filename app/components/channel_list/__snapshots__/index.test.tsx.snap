@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Channels List should match snapshot 1`] = `
+exports[`components/channel_list should match snapshot 1`] = `
 <View
   style={
     Array [
@@ -62,7 +62,7 @@ exports[`Channels List should match snapshot 1`] = `
                 }
               }
             >
-              Contributors
+              Unit Test uidb820df46-68c8-414f-8c5a-77e20dd2665c
             </Text>
             <View
               onMoveShouldSetResponder={[Function]}
@@ -164,7 +164,7 @@ exports[`Channels List should match snapshot 1`] = `
             }
           }
         >
-          Community TEST
+          
         </Text>
       </View>
     </View>
